@@ -30,7 +30,7 @@ section {
 }
 
 #hero {
-    background-image: url("/img/cover_krislin.jpeg");
+    background-image: url("../img/cover_krislin.jpeg");
     background-repeat: no-repeat;
     height: 100vh;
     background-position: right;
@@ -122,7 +122,7 @@ section {
 }
 
 #milestone-cover {
-    background-image: url("/img/cover_krislin.jpeg");
+    background-image: url("../img/cover_krislin.jpeg");
     background-repeat: no-repeat;
     background-position: unset;
     background-repeat: no-repeat;
